@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Triange or Square</string>
+    <string name="image_of_triangle_and_circle">image of triangle and circle</string>
+    <string name="enter_a_whole_number">Enter a whole number</string>
+    <string name="test_if_triangle_or_square_number">Test if Triangle or Square Number</string>
+</resources>
